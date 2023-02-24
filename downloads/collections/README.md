@@ -21,3 +21,8 @@ this link...
 <a id="raw-url" href="https://raw.githubusercontent.com/douglasmccormickjr/adobe-experience-platform-scripts/downloads/collections/Example%20Token%20Generation.postman_collection.json">Download FILE 1</a>
 
 <a id="raw-url" href="https://raw.githubusercontent.com/douglasmccormickjr/adobe-experience-platform-scripts/project/master/downloads/collections/Example%20Token%20Generation.postman_collection.json">Download FILE 2</a>
+
+<a id="raw-url" href="https://github.com/douglasmccormickjr/adobe-experience-platform-scripts/downloads/collections/Example%20Token%20Generation.postman_collection.json">Download FILE 3</a>
+
+
+<a id="raw-url" href="https://github.com/douglasmccormickjr/adobe-experience-platform-scripts/blob/main/downloads/collections/Example%20Token%20Generation.postman_collection.json">Download FILE 4</a>
