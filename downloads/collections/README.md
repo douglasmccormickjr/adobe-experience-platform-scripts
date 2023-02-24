@@ -32,5 +32,5 @@ this link...
 
 <a href="https://raw.githubusercontent.com/douglasmccormickjr/adobe-experience-platform-scripts/main/downloads/collections/Example%20Token%20Generation.postman_collection.json" download="sdfsxdf.josn">plllesdfsdfdsfsa</a>
 
-[Download Minion](https://octodex.github.com/images/minion.png "download")
+<a href="https://raw.githubusercontent.com/douglasmccormickjr/adobe-experience-platform-scripts/main/downloads/collections/Example%20Token%20Generation.postman_collection.json" download="filename:sdfsxdf.josn">plllesdfsdfdsfsa</a>
 
