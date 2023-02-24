@@ -41,3 +41,7 @@ this link...
 
 
 <a href="https://raw.githubusercontent.com/douglasmccormickjr/adobe-experience-platform-scripts/main/downloads/collections/Example%20Token%20Generation.postman_collection.json" target="_blank" type="application/octet-stream" download>plllesa 3</a>
+
+
+
+<a href="https://raw.githubusercontent.com/douglasmccormickjr/adobe-experience-platform-scripts/main/downloads/collections/Example%20Token%20Generation.postman_collection.zip" download>plllesa 4</a>
