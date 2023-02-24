@@ -34,3 +34,10 @@ this link...
 
 <a href="https://raw.githubusercontent.com/douglasmccormickjr/adobe-experience-platform-scripts/main/downloads/collections/Example%20Token%20Generation.postman_collection.json" download="filename:sdfsxdf.josn">plllesdfsdfdsfsa</a>
 
+<a href="https://raw.githubusercontent.com/douglasmccormickjr/adobe-experience-platform-scripts/main/downloads/collections/Example%20Token%20Generation.postman_collection.json" target="_blank" download>plllesa 1</a>
+
+<a href="https://github.com/douglasmccormickjr/adobe-experience-platform-scripts/blob/7bce5d3be6f63e70bc4285bd3a227657f16dc70f/downloads/collections/Example%20Token%20Generation.postman_collection.json" target="_blank" download>plllesa 2</a>
+
+
+
+<a href="https://raw.githubusercontent.com/douglasmccormickjr/adobe-experience-platform-scripts/main/downloads/collections/Example%20Token%20Generation.postman_collection.json" target="_blank" type="application/octet-stream" download>plllesa 3</a>
